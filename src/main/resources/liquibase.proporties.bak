@@ -1,0 +1,5 @@
+changeLogFile=dbchangelog.xml  
+url:jdbc:mysql=//127.0.0.1:3306/practice_5
+username=postgres  
+password=
+classpath=mysql-connector-java-8.0.30.jar
