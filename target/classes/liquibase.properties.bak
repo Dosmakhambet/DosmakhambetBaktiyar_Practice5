@@ -2,6 +2,6 @@
 
 changeLogFile=dbchangelog.sql  
 url:jdbc:mysql://127.0.0.1:3306/practice_5
-username=postgres  
-password=
+username=root
+password=root
 classpath=C:/Program Files/liquibase/lib/mysql-connector-java-8.0.30.jar
